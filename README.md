@@ -61,9 +61,9 @@
     - 人材育成のために、スキルチェックシートの策定や社内勉強会の運営を担当
 - 使用技術
     - OS: Amazon Linux
-    - 言語: EJS, Less, ES2015+
-    - FW: Vue.js, AVA, Nightmare
-    - MW: AWS, Nginx, Node.js, Jenkins, Gulp, Webpack
+    - 言語: EJS, Pug, Less, Scss, ES2015+
+    - FW: React, Redux, Vue.js, Nuxt.js, Vuex, Express
+    - MW: AWS, Nginx, Node.js, Jenkins, Gulp, Webpack, Docker
 
 #### 飲食店向け予約管理台帳システムの開発運用: 2016/10 - 現在
 
