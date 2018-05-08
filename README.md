@@ -60,10 +60,24 @@
     - プロジェクトの規模や性質に合わせた技術選定指針、組織横断的な開発方針、開発体制の検討を担当
     - 人材育成のために、スキルチェックシートの策定や社内勉強会の運営を担当
 - 使用技術
-    - OS: Amazon Linux
-    - 言語: EJS, Pug, Less, Scss, ES2015+
-    - FW: React, Redux, Vue.js, Nuxt.js, Vuex, Express
-    - MW: AWS, Nginx, Node.js, Jenkins, Gulp, Webpack, Docker
+    - AWS, GCP, Amazon Linux
+    - EJS, Pug, Less, Scss, ECMAScript
+    - React, Redux, Vue.js, Nuxt.js, Vuex, Express
+    - Node.js, Nginx, Jenkins, Gulp, Webpack, Docker
+
+#### 旅行事業領域UX改善 2017/10 - 現在
+
+- プロジェクト概要
+    - 旅行事業領域UX改善
+- 実績 / 取り組み
+    - 旅行事業領域UX改善プロジェクトにおいて、開発全体の技術リードを担当
+    - フロントエンド・バックエンドアーキテクチャの技術選定及び開発方針策定
+    - 開発に関する技術的な相談役
+    - 課題解消へ向けた技術面での推進役
+- 使用技術
+    - Pug, Scss, ECMAScript
+    - Vue.js, Nuxt.js, Vuex, Express
+    - GCP, Node.js, Docker, Kubernetes
 
 #### 飲食店向け予約管理台帳システムの開発運用: 2016/10 - 現在
 
@@ -73,10 +87,10 @@
     - フロントチームのリーダーとして、メンバーのサポートやフロントエンドの品質担保やアーキテクチャ改善、フロントエンド課題の一覧化と解消のための活動推進を担当
     - オンプレで構築されたJSPのレガシーアーキテクチャをAWSへ移管する活動では、Node.jsを用いて、Backends For Frontendsを意識したマイクロサービスアーキテクチャ化を推進
 - 使用技術
-    - OS: Amazon Linux
-    - 言語: EJS, Less, ES2015+
-    - FW: Vue.js, AVA, Nightmare
-    - MW: AWS, Nginx, Node.js, Jenkins, Gulp, Webpack
+    - AWS, Amazon Linux
+    - EJS, Less, ECMASCript
+    - Vue.js, AVA, Nightmare
+    - Nginx, Node.js, Jenkins, Gulp, Webpack
 
 ### 株式会社サイバーエージェント: 2016/01 - 2016/09
 
@@ -88,11 +102,11 @@
     - 広告代理店向け広告管理システムのWebフロントエンドの開発運用を担当
     - AWS上に構築した環境の改善及び運用を担当し、高負荷試験の設計や実施も担当
 - 使用技術
-    - OS: Amazon Linux
-    - 言語: HTML5, CSS3, TypeScript, ES2015+, Scala
-    - FW: AngularJS, PostCSS, Gatling
-    - DB: MySQL, Redis
-    - MW: AWS, Nginx, Node.js, Jenkins
+    - AWS, Amazon Linux
+    - HTML5, CSS3, TypeScript, ECMASCript, Scala
+    - AngularJS, PostCSS, Gatling
+    - MySQL, Redis
+    - Nginx, Node.js, Jenkins
 
 ### ソフトバンク株式会社: 2011/04 - 2015/12
 
@@ -108,11 +122,11 @@
     - jMeter, AB, Vegeta等での負荷テストを実施
     - PhantomJSでのクライアントサイドUIテストの仕組みを導入
 - 使用技術
-    - OS: CentOS
-    - 言語: HTML5, CSS3, ECMAScript, PHP
-    - FW: Babel, Smarty, PhantomJS
-    - DB: MySQL
-    - MW: Apache, Nginx, Gulp, Browserify, Fluentd, jMeter, ab, Vegeta
+    - CentOS
+    - HTML5, CSS3, ECMAScript, PHP
+    - Babel, Smarty, PhantomJS
+    - MySQL
+    - Apache, Nginx, Gulp, Browserify, Fluentd, jMeter, ab, Vegeta
 
 #### 位置情報を利用した車両管理システムの開発: 2013/10 - 2015/04
 
@@ -123,11 +137,11 @@
     - フロントエンドエンジニアとして、位置情報を汎用的に扱うためのプラットフォームの構築及び、それを用いたリアルタイム車両管理システムの開発を担当
     - タスクやコード管理のため、GitBucket環境を構築し、Pull Requestベースの開発手法をチーム内に導入
 - 使用技術
-    - OS: CentOS
-    - 言語: Jade, Stylus, CoffeeScript
-    - FW: Bootstrap, Primus.IO, Vue.js, Mocha
-    - DB: MongoDB, Redis, MySQL
-    - MW: Nginx, Node.js, ImageMagick, Gulp, Browserify, jMeter
+    - CentOS
+    - Jade, Stylus, CoffeeScript
+    - Bootstrap, Primus.IO, Vue.js, Mocha
+    - MongoDB, Redis, MySQL
+    - Nginx, Node.js, ImageMagick, Gulp, Browserify, jMeter
 
 #### 位置情報を利用したクーポン配信システムの開発運用: 2011/10 - 2013/10
 
@@ -136,11 +150,11 @@
 - 実績 / 取り組み
     - フロントエンドエンジニアとして、コンテンツホルダー企業向けの業務Webアプリ画面開発を担当
 - 使用技術
-    - OS: CentOS
-    - 言語: HTML5, CSS3, JavaScript
-    - FW: Socket.IO
-    - DB: MongoDB, Redis
-    - MW: Nginx, Node.js, ImageMagick
+    - CentOS
+    - HTML5, CSS3, JavaScript
+    - Socket.IO
+    - MongoDB, Redis
+    - Nginx, Node.js, ImageMagick
 
 ## 自己PR
 
